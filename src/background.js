@@ -4,7 +4,7 @@
 
 // default options
 // Change this notes url to your google doc notes or your notes url
-var notes_url = "https://docs.google.com/document/u/0/"
+var notes_url = "https://pomofocus.io/"
 var defaultOptions = {
   options: {
     isNewTab: false,
